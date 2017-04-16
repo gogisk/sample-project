@@ -3,7 +3,7 @@ package home.gsk.samples;
 import java.util.Scanner;
 
 /**
- * Created by Sivak
+ * Created by gsk
  * on 4/14/2017.
  */
 public class PrintTrianglePattern
